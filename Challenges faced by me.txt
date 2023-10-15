@@ -1,0 +1,3 @@
+During the assignment, I mostly faced library issues while executing the code in Jupyter notebook. Hence, I tried and executed all in Google Colab.
+Even Google Colab has little system limitations like limited RAM. Hence I had to cut short to fewer categories and fewer max_length values.
+However Google Colab helped me with library exceptions that I faced through Jupyter Notebook.
